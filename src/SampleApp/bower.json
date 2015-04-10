@@ -1,0 +1,7 @@
+{
+  "name": "aspnet-ef6-starter",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}

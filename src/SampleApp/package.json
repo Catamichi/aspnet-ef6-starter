@@ -1,0 +1,10 @@
+{
+  "name": "aspnet-ef6-starter",
+  "version": "1.0.0",
+  "dependencies": {
+    "bower": "^1.4.1"
+  },
+  "scripts": {
+    "postinstall": "./node_modules/.bin/bower install"
+  }
+}

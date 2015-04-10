@@ -1,0 +1,10 @@
+{
+  "database": {
+    "host": "localhost",
+    "db":   "mim",
+    "user": "mim"
+  },
+  "misc": {
+    "timeZoneId": "America/La_Paz"
+  }
+}
